@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BR-Architect/static/css/main.9e0dad1a.css",
+    "main.js": "/BR-Architect/static/js/main.ade22b6f.js",
+    "static/js/453.7ee4257d.chunk.js": "/BR-Architect/static/js/453.7ee4257d.chunk.js",
+    "index.html": "/BR-Architect/index.html",
+    "main.9e0dad1a.css.map": "/BR-Architect/static/css/main.9e0dad1a.css.map",
+    "main.ade22b6f.js.map": "/BR-Architect/static/js/main.ade22b6f.js.map",
+    "453.7ee4257d.chunk.js.map": "/BR-Architect/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0dad1a.css",
+    "static/js/main.ade22b6f.js"
+  ]
+}
